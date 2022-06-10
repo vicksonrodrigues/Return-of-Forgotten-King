@@ -11,7 +11,7 @@ public class GameController : MonoBehaviour
     public InputField textEntryField;
     public Text logText;
     public Text currentText;
-    public Image locationBackground;//UI backgroudImage
+    public Image locationBackground;//UI backgroundImage
 
     public Action[] actions;
 
@@ -20,11 +20,11 @@ public class GameController : MonoBehaviour
 
 	// Use this for initialization
 	void Start ()
-    {		
+    {
         logText.text = introText;
         DisplayLocation();
-        textEntryField.ActivateInputField();
         DisplayBackground();
+        textEntryField.ActivateInputField();
     }
 	
 	// Update is called once per frame
