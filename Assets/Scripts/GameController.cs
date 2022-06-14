@@ -3,14 +3,15 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
+using TMPro;
 
 public class GameController : MonoBehaviour
 {
     public Player player;
 
-    public InputField textEntryField;
-    public Text logText;
-    public Text currentText;
+    public TMP_InputField textEntryField;
+    public TextMeshProUGUI logText;
+    public TextMeshProUGUI currentText;
     public Image locationBackground;//UI backgroundImage
 
     public Action[] actions;
@@ -102,7 +103,7 @@ public class GameController : MonoBehaviour
             }
         }
 
-        currentText.text = "Nothing happens! (having trouble? type Help)";
+        currentText.text = "Nothing happens! (having trouble? Refer How To Play";
     }
 
 
