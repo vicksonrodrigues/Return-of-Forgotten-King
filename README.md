@@ -67,8 +67,9 @@ The motive behind this project was to learn how make a bare-bones game using Uni
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+To run this application, download the GitHub zip file or clone the repository. Then open a browsser window and within it open the index.html fine in the directory of your application.
+
+You can also play the game by clicking this link: https://madisonkanna.github.io/Arcade-Game/
 
 ### Prerequisites
 
@@ -79,9 +80,8 @@ This is an example of how to list things you need to use the software and how to
   ```
 
 ### Installation
-
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+#### WindowsBuild
+1. Clone the repo
    ```sh
    git clone https://github.com/github_username/repo_name.git
    ```
@@ -161,4 +161,5 @@ Project Link: [https://github.com/vicksonrodrigues/Return-of-Forgotten-King](htt
 [license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: https://user-images.githubusercontent.com/55660155/174412684-7085bbab-86d3-44e7-a2fc-d0725dae08b7.jpeg
+[product-screenshot]: https://user-images.githubusercontent.com/55660155/174640533-86a3b005-16c6-4201-a4a6-bb72aa9e655a.png
+
