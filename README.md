@@ -36,13 +36,13 @@ A Text Based Adventure Game made with Unity.
       <a href="#about-the-project">About The Project</a>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#installation">Installation</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#Windows Build">Windows Build</a></li>
+        <li><a href="#WebGL Build">WebGL Build</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#How To Play">How To Play</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
@@ -64,67 +64,44 @@ The motive behind this project was to learn how make a bare-bones game using Uni
 
 
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Installation
 
-To run this application, download the GitHub zip file or clone the repository. Then open a browsser window and within it open the index.html fine in the directory of your application.
+### Windows Build
 
-You can also play the game by clicking this link: https://madisonkanna.github.io/Arcade-Game/
+To run this game on your local machine, download the <a href = https://github.com/vicksonrodrigues/Return-of-Forgotten-King/archive/refs/tags/v0.0.1-beta.12.zip >Return-of-Forgotten-King.zip </a> file . Extract the zip file and run "Return-of-Forgotten-King-Windows64.exe".
 
-### Prerequisites
+### WebGL Build
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
-  ```sh
-  npm install npm@latest -g
-  ```
+You can also play a WebGL version of game by clicking this link: https://vicksonrodrigues.github.io/Return-of-Forgotten-King/
 
-### Installation
-#### WindowsBuild
-1. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## How To Play
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Type a verb followed by a highlighted Noun (in purple). 
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+Allowed verbs: 
+<ul>
+  <li>Go</li>
+  <li>Examine</li>
+  <li>Get</li>
+  <li>Give</li>
+  <li>Use</li>
+  <li>Read</li>
+  <li>Inventory</li>
+  <li>TalkTo</li>
+  <li>Say</li>  
+</ul>
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+Note: To check Inventory type only "Inventory" without a noun .
 
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
+Example: Go North, Examine Tree .
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -139,7 +116,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Vickson Rodrigues - vickson.rodrigues@gmail.com
 
 Project Link: [https://github.com/vicksonrodrigues/Return-of-Forgotten-King](https://github.com/vicksonrodrigues/Return-of-Forgotten-King)
 
@@ -149,17 +126,6 @@ Project Link: [https://github.com/vicksonrodrigues/Return-of-Forgotten-King](htt
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+
 [product-screenshot]: https://user-images.githubusercontent.com/55660155/174640533-86a3b005-16c6-4201-a4a6-bb72aa9e655a.png
 
