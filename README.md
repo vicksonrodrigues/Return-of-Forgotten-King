@@ -20,9 +20,7 @@ A Text Based Adventure Game made with Unity.
     <br />
     <a href="https://vicksonrodrigues.github.io/Return-of-Forgotten-King/">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
+    <a href="https://github.com/vicksonrodrigues/Return-of-Forgotten-King/issues">Report Bug</a>
   </p>
 </div>
 
