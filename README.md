@@ -36,11 +36,11 @@ A Text Based Adventure Game made with Unity.
     <li>
       <a href="#installation">Installation</a>
       <ul>
-        <li><a href="#Windows Build">Windows Build</a></li>
-        <li><a href="#WebGL Build">WebGL Build</a></li>
+        <li><a href="#windows-build">Windows Build</a></li>
+        <li><a href="#webgl-build">WebGL Build</a></li>
       </ul>
     </li>
-    <li><a href="#How To Play">How To Play</a></li>
+    <li><a href="#how-to-play">How To Play</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
